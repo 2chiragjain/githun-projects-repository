@@ -1,1 +1,1 @@
-# githun-projects-repository
+# github-projects-repository
